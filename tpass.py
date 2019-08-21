@@ -1,6 +1,5 @@
 ##Temporary Password Script
 #by William McGuire
-#written on 08182019
 #Script copies temporary password to clipboard
 #For when end user forgets password
 
